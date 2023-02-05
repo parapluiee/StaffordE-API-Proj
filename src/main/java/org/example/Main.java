@@ -19,7 +19,7 @@ public class Main {
         System.out.println("------------------------------------------");
         System.out.println("This program uses the 'Free Dictionary\n" +
                 "API' provided by MeetDeveloper to produce\n" +
-                "phonetic transcriptions (pronounciations)\n" +
+                "phonetic transcriptions (british pronounciation)\n" +
                 "of English words.\n");
         System.out.println("Please enter a word, or 'exit!' to complete.");
         System.out.println("------------------------------------------");
